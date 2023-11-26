@@ -1,0 +1,1 @@
+export {default as Galaries} from './Galaries'

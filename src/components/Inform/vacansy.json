@@ -1,0 +1,61 @@
+{
+    "vacancies": [
+      {
+        "id": 1,
+        "title": "Satış üzrə mütəxəssis",
+        "location": "Bakı",
+        "date":"23 noyabr 2023",
+        "gender":"Kişi,Qadın",
+        "age":"18-35",
+        "language":"Azərbaycan, Rus",
+        "experience":"1-3 il",
+        "hours":"Həftədə 5 gün, 09:00 - 22:00",
+        "salary":"350 AZN+bonus+nahar şirkət tərəfindən verilir",
+        "request":"31.08.2020",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+      },
+      {
+        "id": 2,
+        "title": "Senior Software Developer",
+        "location": "Bakı",
+        "date":"23 noyabr 2023",
+        "gender":"Kişi,Qadın",
+        "age":"18-35",
+        "language":"Azərbaycan, Rus",
+        "experience":"1-3 il",
+        "hours":"Həftədə 5 gün, 09:00 - 22:00",
+        "salary":"350 AZN+bonus+nahar şirkət tərəfindən verilir",
+        "request":"31.08.2020",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+      },
+      {
+        "id": 3,
+        "title": "Dizayner",
+        "location": "Bakı",
+        "date":"23 noyabr 2023",
+        "gender":"Kişi,Qadın",
+        "age":"18-35",
+        "language":"Azərbaycan, Rus",
+        "experience":"1-3 il",
+        "hours":"Həftədə 5 gün, 09:00 - 22:00",
+        "salary":"350 AZN+bonus+nahar şirkət tərəfindən verilir",
+        "request":"31.08.2020",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    {
+        "id": 4,
+        "title": "Menecer",
+        "location": "Bakı",
+        "date":"23 noyabr 2023",
+        "gender":"Kişi,Qadın",
+        "age":"18-35",
+        "language":"Azərbaycan, Rus",
+        "experience":"1-3 il",
+        "hours":"Həftədə 5 gün, 09:00 - 22:00",
+        "salary":"350 AZN+bonus+nahar şirkət tərəfindən verilir",
+        "request":"31.08.2020",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    }
+    ]
+  }
+  

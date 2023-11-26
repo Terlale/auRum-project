@@ -1,0 +1,17 @@
+{
+    "Items": [
+      {
+        "id": 1,
+        "text": "Commercial Duties:The ship agent provides shippers or forwarding agents with transport services and is responsible for facilitating transport for the ship."
+      },
+      {
+        "id": 2,
+        "text": "Operational Duties:The enabling of all services related to their time in port for the ship or its crew. This includes all procedures required when arriving at and leaving its mooring, port or customs authority formalities, monitoring operations in the port and managing the right to enter and stay in the port. Here we refer not only to paperwork, but also to the supply of fuel and provisions, and to the hiring of personnel."
+      },
+      {
+        "id": 3,
+        "text": "Freight management functions:The ship agent is responsible for filing the off-loading manifest with customs and for issuing the Delivery document, in order that the owner may withdraw the freight, as well as for hiring personnel to load, unload, stow and unstow the cargo."
+      }
+    ]
+  }
+  
